@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-04T11:44:34 IST" name="Suite1" finished-at="2023-04-04T11:44:34 IST" duration-ms="89">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T11:44:34 IST" name="Regression" finished-at="2023-04-04T11:44:34 IST" duration-ms="89">
+      <class name="com.icehrm_automation.login.Sample1">
+        <test-method is-config="true" signature="sample1BeforTest()[pri:0, instance:com.icehrm_automation.login.Sample1@13fd2ccd]" started-at="2023-04-04T11:44:34 IST" name="sample1BeforTest" finished-at="2023-04-04T11:44:34 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1BeforTest -->
+        <test-method is-config="true" signature="sample1BeforeClass()[pri:0, instance:com.icehrm_automation.login.Sample1@13fd2ccd]" started-at="2023-04-04T11:44:34 IST" name="sample1BeforeClass" finished-at="2023-04-04T11:44:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1BeforeClass -->
+        <test-method is-config="true" signature="sample1BeforeMethod()[pri:0, instance:com.icehrm_automation.login.Sample1@13fd2ccd]" started-at="2023-04-04T11:44:34 IST" name="sample1BeforeMethod" finished-at="2023-04-04T11:44:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1BeforeMethod -->
+        <test-method signature="sample1Test()[pri:0, instance:com.icehrm_automation.login.Sample1@13fd2ccd]" started-at="2023-04-04T11:44:34 IST" name="sample1Test" finished-at="2023-04-04T11:44:34 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1Test -->
+        <test-method is-config="true" signature="sample1AfterMethod()[pri:0, instance:com.icehrm_automation.login.Sample1@13fd2ccd]" started-at="2023-04-04T11:44:34 IST" name="sample1AfterMethod" finished-at="2023-04-04T11:44:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1AfterMethod -->
+        <test-method is-config="true" signature="sample1AfterClass()[pri:0, instance:com.icehrm_automation.login.Sample1@13fd2ccd]" started-at="2023-04-04T11:44:34 IST" name="sample1AfterClass" finished-at="2023-04-04T11:44:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1AfterClass -->
+        <test-method is-config="true" signature="sample1AfterTest()[pri:0, instance:com.icehrm_automation.login.Sample1@13fd2ccd]" started-at="2023-04-04T11:44:34 IST" name="sample1AfterTest" finished-at="2023-04-04T11:44:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1AfterTest -->
+      </class> <!-- com.icehrm_automation.login.Sample1 -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite1 -->
+</testng-results>
